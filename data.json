@@ -1,1 +1,18 @@
-
+[
+    {
+        "title": "God of War",
+        "accounts": [
+            {"accountName": "Account1", "accountPassword": "password1"},
+            {"accountName": "Account2", "accountPassword": "password2"}
+        ]
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "accounts": [
+            {"accountName": "Account1", "accountPassword": "password1"},
+            {"accountName": "Account2", "accountPassword": "password2"},
+            {"accountName": "Account3", "accountPassword": "password3"}
+        ]
+    },
+    ...
+]
