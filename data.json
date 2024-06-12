@@ -3,6 +3,12 @@
         "title": "God of War",
         "accounts": [
             {"accountName": "Account1", "accountPassword": "password1"},
+            {"accountName": "Account2", "accountPassword": "password2"},
+            {"accountName": "Account1", "accountPassword": "password1"},
+            {"accountName": "Account2", "accountPassword": "password2"},
+            {"accountName": "Account1", "accountPassword": "password1"},
+            {"accountName": "Account2", "accountPassword": "password2"},
+            {"accountName": "Account1", "accountPassword": "password1"},
             {"accountName": "Account2", "accountPassword": "password2"}
         ]
     },
