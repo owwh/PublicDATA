@@ -13,5 +13,133 @@
             {"accountName": "Account2", "accountPassword": "password2"},
             {"accountName": "Account3", "accountPassword": "password3"}
         ]
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "accounts": [
+            {"accountName": "Geralt", "accountPassword": "witcher123"},
+            {"accountName": "Ciri", "accountPassword": "ciriciri"}
+        ]
+    },
+    {
+        "title": "Assassin's Creed Valhalla",
+        "accounts": [
+            {"accountName": "Eivor", "accountPassword": "valhalla123"},
+            {"accountName": "Sigurd", "accountPassword": "odinsson"}
+        ]
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "accounts": [
+            {"accountName": "ArthurMorgan", "accountPassword": "reddead123"},
+            {"accountName": "JohnMarston", "accountPassword": "cowboy456"}
+        ]
+    },
+    {
+        "title": "The Last of Us Part II",
+        "accounts": [
+            {"accountName": "Ellie", "accountPassword": "tlou123"},
+            {"accountName": "Joel", "accountPassword": "infected456"}
+        ]
+    },
+    {
+        "title": "GTA V",
+        "accounts": [
+            {"accountName": "Michael", "accountPassword": "gta123"},
+            {"accountName": "Franklin", "accountPassword": "sanandreas456"},
+            {"accountName": "Trevor", "accountPassword": "blaine567"}
+        ]
+    },
+    {
+        "title": "Minecraft",
+        "accounts": [
+            {"accountName": "Steve", "accountPassword": "minecraft123"},
+            {"accountName": "Alex", "accountPassword": "block456"}
+        ]
+    },
+    {
+        "title": "FIFA 21",
+        "accounts": [
+            {"accountName": "Ronaldo", "accountPassword": "fifa123"},
+            {"accountName": "Messi", "accountPassword": "goal456"}
+        ]
+    },
+    {
+        "title": "League of Legends",
+        "accounts": [
+            {"accountName": "Summoner1", "accountPassword": "lol123"},
+            {"accountName": "Summoner2", "accountPassword": "riven456"},
+            {"accountName": "Summoner3", "accountPassword": "teemo789"}
+        ]
+    },
+    {
+        "title": "Valorant",
+        "accounts": [
+            {"accountName": "Agent1", "accountPassword": "valorant123"},
+            {"accountName": "Agent2", "accountPassword": "shooter456"}
+        ]
+    },
+    {
+        "title": "Call of Duty: Warzone",
+        "accounts": [
+            {"accountName": "Soldier1", "accountPassword": "warzone123"},
+            {"accountName": "Soldier2", "accountPassword": "battle456"}
+        ]
+    },
+    {
+        "title": "Among Us",
+        "accounts": [
+            {"accountName": "Impostor1", "accountPassword": "sus123"},
+            {"accountName": "Crewmate1", "accountPassword": "crew456"}
+        ]
+    },
+    {
+        "title": "Apex Legends",
+        "accounts": [
+            {"accountName": "Legend1", "accountPassword": "apex123"},
+            {"accountName": "Legend2", "accountPassword": "battle456"},
+            {"accountName": "Legend3", "accountPassword": "victory789"}
+        ]
+    },
+    {
+        "title": "Fortnite",
+        "accounts": [
+            {"accountName": "FortnitePlayer1", "accountPassword": "fortnite123"},
+            {"accountName": "FortnitePlayer2", "accountPassword": "battle456"}
+        ]
+    },
+    {
+        "title": "Overwatch",
+        "accounts": [
+            {"accountName": "Hero1", "accountPassword": "overwatch123"},
+            {"accountName": "Hero2", "accountPassword": "battle456"}
+        ]
+    },
+    {
+        "title": "Halo Infinite",
+        "accounts": [
+            {"accountName": "MasterChief", "accountPassword": "halo123"}
+        ]
+    },
+    {
+        "title": "World of Warcraft",
+        "accounts": [
+            {"accountName": "Player1", "accountPassword": "wow123"},
+            {"accountName": "Player2", "accountPassword": "battle456"}
+        ]
+    },
+    {
+        "title": "Pokemon Sword & Shield",
+        "accounts": [
+            {"accountName": "Trainer1", "accountPassword": "pokemon123"},
+            {"accountName": "Trainer2", "accountPassword": "battle456"}
+        ]
+    },
+    {
+        "title": "Super Smash Bros. Ultimate",
+        "accounts": [
+            {"accountName": "Fighter1", "accountPassword": "smash123"},
+            {"accountName": "Fighter2", "accountPassword": "battle456"}
+        ]
     }
 ]
