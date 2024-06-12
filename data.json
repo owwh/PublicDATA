@@ -13,5 +13,5 @@
             {"accountName": "Account2", "accountPassword": "password2"},
             {"accountName": "Account3", "accountPassword": "password3"}
         ]
-    },
+    }
 ]
