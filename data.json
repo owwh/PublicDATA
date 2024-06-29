@@ -5,127 +5,34 @@
         "datas": [
             {"data1": "zRKci4C4amzKHCkeHgroxA==", "data2": "wz38GeEbTEknXrnvww1r3g=="},
             {"data1": "9T1247KYtVXR1XR9YTCs8g==", "data2": "3WZU+cqJRvjn/qb/PZkRiQ=="},
-            {"data1": "Player3", "data2": "csgo789"},
-            {"data1": "Player4", "data2": "csgo101112"},
-            {"data1": "Player5", "data2": "csgo131415"},
-            {"data1": "Player6", "data2": "csgo161718"}
         ]
     },
     {
-        "title": "Counter-Strike: Global Offensive",
+        "title": "Hogwarts Legacy",
         "id": "730",
         "datas": [
-            {"data1": "Player1", "data2": "csgo123"},
-            {"data1": "Player2", "data2": "csgo456"},
-            {"data1": "Player3", "data2": "csgo789"},
-            {"data1": "Player4", "data2": "csgo101112"},
-            {"data1": "Player5", "data2": "csgo131415"},
-            {"data1": "Player6", "data2": "csgo161718"}
+            {"data1": "O+wYXtupZbWGr5+r+gixFQ==", "data2": "pdJFHdFBE24LZfDakg1GVQ=="},
         ]
     },
     {
-        "title": "Dota 2",
+        "title": "Days Gone",
         "id": "570",
         "datas": [
-            {"data1": "Player1", "data2": "dota123"},
-            {"data1": "Player2", "data2": "dota456"},
-            {"data1": "Player3", "data2": "dota789"},
-            {"data1": "Player4", "data2": "dota101112"},
-            {"data1": "Player5", "data2": "dota131415"},
-            {"data1": "Player6", "data2": "dota161718"}
+            {"data1": "MFGk2MnXSjm0jBwCfaiylg==", "data2": "qMLlTQHKqBucnShhtIeykQ=="},
         ]
     },
     {
-        "title": "Team Fortress 2",
-        "id": "440",
+        "title": "Detroit Become Human",
+        "id": "570",
         "datas": [
-            {"data1": "Player1", "data2": "tf2123"},
-            {"data1": "Player2", "data2": "tf2456"},
-            {"data1": "Player3", "data2": "tf2789"},
-            {"data1": "Player4", "data2": "tf2101112"},
-            {"data1": "Player5", "data2": "tf2131415"},
-            {"data1": "Player6", "data2": "tf2161718"}
+            {"data1": "2QMts1he1bXfmJ4JlMUJIQ==", "data2": "8zHPI9GyMvW07F2vQEDVXg=="},
         ]
     },
     {
-        "title": "Fall Guys: Ultimate Knockout",
-        "id": "1097150",
+        "title": "Elden Ring",
+        "id": "570",
         "datas": [
-            {"data1": "Player1", "data2": "fallguys123"},
-            {"data1": "Player2", "data2": "fallguys456"}
+            {"data1": "I7TpcSJyyZE3f4sFEJBqYg==", "data2": "QPuES+oYd5tmKg5hiMp/TA=="},
         ]
     },
-    {
-        "title": "Risk of Rain 2",
-        "id": "632360",
-        "datas": [
-            {"data1": "Player1", "data2": "riskofrain123"},
-            {"data1": "Player2", "data2": "riskofrain456"}
-        ]
-    },
-    {
-        "title": "Stardew Valley",
-        "id": "413150",
-        "datas": [
-            {"data1": "Player1", "data2": "stardew123"},
-            {"data1": "Player2", "data2": "stardew456"}
-        ]
-    },
-    {
-        "title": "Hades",
-        "id": "1145360",
-        "datas": [
-            {"data1": "Player1", "data2": "hades123"},
-            {"data1": "Player2", "data2": "hades456"}
-        ]
-    },
-    {
-        "title": "Red Dead Redemption 2",
-        "id": "1174180",
-        "datas": [
-            {"data1": "ArthurMorgan", "data2": "reddead123"},
-            {"data1": "JohnMarston", "data2": "cowboy456"}
-        ]
-    },
-    {
-        "title": "Rocket League",
-        "id": "252950",
-        "datas": [
-            {"data1": "Player1", "data2": "rocket123"},
-            {"data1": "Player2", "data2": "league456"}
-        ]
-    },
-    {
-        "title": "Terraria",
-        "id": "105600",
-        "datas": [
-            {"data1": "Player1", "data2": "terraria123"},
-            {"data1": "Player2", "data2": "terraria456"}
-        ]
-    },
-    {
-        "title": "Portal 2",
-        "id": "620",
-        "datas": [
-            {"data1": "Player1", "data2": "portal123"},
-            {"data1": "Player2", "data2": "portal456"}
-        ]
-    },
-    {
-        "title": "Grand Theft Auto V",
-        "id": "271590",
-        "datas": [
-            {"data1": "Michael", "data2": "UmaCh7bcN+cf4DHrheKsyA=="},
-            {"data1": "Franklin", "data2": "sjyctvHEayZyzGjYSKgQsg=="},
-            {"data1": "Trevor", "data2": "gta789"}
-        ]
-    },
-    {
-        "title": "The Witcher 3: Wild Hunt",
-        "id": "292030",
-        "datas": [
-            {"data1": "Geralt", "data2": "witcher123"},
-            {"data1": "Ciri", "data2": "ciriciri"}
-        ]
-    }
 ]
